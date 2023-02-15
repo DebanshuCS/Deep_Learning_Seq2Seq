@@ -1,4 +1,7 @@
 # Deep_Learning_Seq2Seq
+
+ It's a combination of "translate" and "lingua" (the Latin word for language), which reflects the project's goal of translating text between languages.
+
 Sequence to Sequence (often abbreviated to seq2seq) models is a special class of Recurrent Neural Network architectures that we typically use (but not restricted) to solve complex Language problems like Machine Translation, Question Answering, creating Chatbots, Text Summarization, etc.
 
 Seq2Seq is a type of Encoder-Decoder model using RNN. It can be used as a model for machine interaction and machine translation.
